@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Responsive portfolio website",
-  "homepage": "https://hovosukiasyan.github.io/modern_portfolio",
+  "homepage": "https://hovosukiasyan.github.io/portfolio",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o resource/css/ --recursive",
